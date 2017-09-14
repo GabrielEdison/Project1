@@ -7,8 +7,8 @@ int vec_aleatorio(int *);
 int main(int argc, char *argv[]) {
 
 
-
-
+	;
+	lalala
 
 
 
