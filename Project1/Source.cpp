@@ -13,3 +13,10 @@ int main(int argc, char *argv[]) {
 
 
 }
+int vec_aleatorio(int *vet){
+	int i;
+	cout << "this shit";
+	cin >> i;
+
+
+}
